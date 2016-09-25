@@ -1,0 +1,8 @@
+{
+    "name": "test-repo-a",
+    "private": true,
+    "mondo": {
+        "install": "my_mondo_stuff",
+        "packages": "pkgs"
+    }
+}
