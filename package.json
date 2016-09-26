@@ -4,7 +4,7 @@
         "uses": {
             "test-repo-c": {
                 "repository": "aphex/test-repo-c",
-                "branch": "master"
+                "branch": "fancy-pants"
             }
         }
     }
