@@ -1,9 +1,9 @@
 {
     "name": "test-repo-b",
-    "dependencies": {
-        "test-repo-a-package": "latest"
-    },
     "mondo": {
+        "dependencies": {
+            "test-repo-a-package": "latest"
+        },
         "uses": {
             "test-repo-c": {
                 "repository": "aphex/test-repo-c",
