@@ -1,3 +1,6 @@
 {
-    "name": "@myscope/test-repo-b"
+    "name": "@myscope/test-repo-b",
+    "mondo": {
+      "name": "test-repo-b"
+    }
 }
